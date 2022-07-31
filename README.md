@@ -1,4 +1,7 @@
-# Guia de estilos
+# HZC Skate
+Um site para amantes de skate. Feito durente o Curso de CSS: dispondo elementos com Flexbox e Grid da Alura.
+
+## Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
 

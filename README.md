@@ -14,3 +14,8 @@ Descubra um pico para andar de Skate.
 
 ## Detalhes do projeto
 
+Projeto feito durante curdo da Alura
+
+## Objetivos de estudo
+- flex-box
+- flex-grid

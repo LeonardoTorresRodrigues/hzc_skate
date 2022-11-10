@@ -10,11 +10,11 @@ Descubra um pico para andar de Skate.
 | :fire: Desafio     | https://alura.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-#vitrinedev)
+<!-- #vitrinedev) -->
 
 ## Detalhes do projeto
 
-Projeto feito durante curdo da Alura
+Projeto feito durante curso da Alura
 
 ## Objetivos de estudo
 - flex-box

@@ -21,3 +21,7 @@ Projeto feito durante curso da Alura
 ## Objetivos de estudo
 - flex-box
 - flex-grid
+
+# Próximas atualizações
+
+:construction: Mais páginas da aplicação :construction:

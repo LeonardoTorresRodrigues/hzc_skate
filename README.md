@@ -24,4 +24,4 @@ Projeto feito durante curso da Alura
 
 # Próximas atualizações
 
-:construction: Mais páginas da aplicação :construction:
+:construction: Novas páginas da aplicação :construction:

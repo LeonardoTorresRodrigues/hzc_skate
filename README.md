@@ -18,10 +18,6 @@ Descubra um pico para andar de Skate.
 
 Projeto feito durante curso da Alura
 
-## Objetivos de estudo
-- flex-box
-- flex-grid
-
 # Próximas atualizações
 
 :construction: Novas páginas da aplicação :construction:

@@ -17,7 +17,3 @@ Descubra um pico para andar de Skate.
 ## Detalhes do projeto
 
 Projeto feito durante curso da Alura
-
-# Próximas atualizações
-
-:construction: Novas páginas da aplicação :construction:
